@@ -12,7 +12,7 @@
     "imageUrl": "/map-screenshots/bloodwood.jpg"
   },
   {
-    "name": "Blooming Field-boss",
+    "name": "Blooming Field (boss)",
     "imageUrl": "/map-screenshots/blooming_field-boss.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "imageUrl": "/map-screenshots/blooming_field.jpg"
   },
   {
-    "name": "Burial Bog-boss",
+    "name": "Burial Bog (boss)",
     "imageUrl": "/map-screenshots/burial_bog-boss.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "imageUrl": "/map-screenshots/crimson_shores.jpg"
   },
   {
-    "name": "Crypt-boss",
+    "name": "Crypt (boss)",
     "imageUrl": "/map-screenshots/crypt-boss.jpg"
   },
   {
@@ -52,12 +52,20 @@
     "imageUrl": "/map-screenshots/deserted.jpg"
   },
   {
-    "name": "Forge-boss",
+    "name": "Forge (boss)",
     "imageUrl": "/map-screenshots/forge-boss.jpg"
   },
   {
     "name": "Forge",
     "imageUrl": "/map-screenshots/forge.jpg"
+  },
+  {
+    "name": "Fortress (boss)",
+    "imageUrl": "/map-screenshots/fortress-boss.jpg"
+  },
+  {
+    "name": "Fortress",
+    "imageUrl": "/map-screenshots/fortress.jpg"
   },
   {
     "name": "Hidden Grotto",
@@ -80,7 +88,7 @@
     "imageUrl": "/map-screenshots/ravine.jpg"
   },
   {
-    "name": "Rustbowl-boss",
+    "name": "Rustbowl (boss)",
     "imageUrl": "/map-screenshots/rustbowl-boss.jpg"
   },
   {
@@ -96,7 +104,11 @@
     "imageUrl": "/map-screenshots/seepage.jpg"
   },
   {
-    "name": "Spider Woods-boss",
+    "name": "Slick",
+    "imageUrl": "/map-screenshots/slick.jpg"
+  },
+  {
+    "name": "Spider Woods (boss)",
     "imageUrl": "/map-screenshots/spider_woods-boss.jpg"
   },
   {
@@ -104,7 +116,7 @@
     "imageUrl": "/map-screenshots/spider_woods.jpg"
   },
   {
-    "name": "Steaming Springs-boss",
+    "name": "Steaming Springs (boss)",
     "imageUrl": "/map-screenshots/steaming_springs-boss.jpg"
   },
   {
@@ -120,7 +132,7 @@
     "imageUrl": "/map-screenshots/sulphuric_caverns.jpg"
   },
   {
-    "name": "Sump-boss",
+    "name": "Sump (boss)",
     "imageUrl": "/map-screenshots/sump-boss.jpg"
   },
   {
@@ -132,7 +144,7 @@
     "imageUrl": "/map-screenshots/untainted_paradise.jpg"
   },
   {
-    "name": "Vaal Factory-boss",
+    "name": "Vaal Factory (boss)",
     "imageUrl": "/map-screenshots/vaal_factory-boss.jpg"
   },
   {
