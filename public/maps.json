@@ -60,6 +60,14 @@
     "imageUrl": "/map-screenshots/forge.jpg"
   },
   {
+    "name": "Fortress-boss",
+    "imageUrl": "/map-screenshots/fortress-boss.jpg"
+  },
+  {
+    "name": "Fortress",
+    "imageUrl": "/map-screenshots/fortress.jpg"
+  },
+  {
     "name": "Hidden Grotto",
     "imageUrl": "/map-screenshots/hidden_grotto.jpg"
   },
@@ -94,6 +102,10 @@
   {
     "name": "Seepage",
     "imageUrl": "/map-screenshots/seepage.jpg"
+  },
+  {
+    "name": "Slick",
+    "imageUrl": "/map-screenshots/slick.jpg"
   },
   {
     "name": "Spider Woods-boss",
