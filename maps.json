@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Augury",
+    "imageUrl": "/map-screenshots/augury.jpg"
+  },
+  {
+    "name": "Backwash",
+    "imageUrl": "/map-screenshots/backwash.jpg"
+  },
+  {
+    "name": "Bloodwood",
+    "imageUrl": "/map-screenshots/bloodwood.jpg"
+  },
+  {
+    "name": "Blooming Field-boss",
+    "imageUrl": "/map-screenshots/blooming_field-boss.jpg"
+  },
+  {
+    "name": "Blooming Field",
+    "imageUrl": "/map-screenshots/blooming_field.jpg"
+  },
+  {
+    "name": "Burial Bog-boss",
+    "imageUrl": "/map-screenshots/burial_bog-boss.jpg"
+  },
+  {
+    "name": "Burial Bog",
+    "imageUrl": "/map-screenshots/burial_bog.jpg"
+  },
+  {
+    "name": "Creek",
+    "imageUrl": "/map-screenshots/creek.jpg"
+  },
+  {
+    "name": "Crimson Shores",
+    "imageUrl": "/map-screenshots/crimson_shores.jpg"
+  },
+  {
+    "name": "Crypt-boss",
+    "imageUrl": "/map-screenshots/crypt-boss.jpg"
+  },
+  {
+    "name": "Crypt",
+    "imageUrl": "/map-screenshots/crypt.jpg"
+  },
+  {
+    "name": "Decay",
+    "imageUrl": "/map-screenshots/decay.jpg"
+  },
+  {
+    "name": "Deserted",
+    "imageUrl": "/map-screenshots/deserted.jpg"
+  },
+  {
+    "name": "Forge-boss",
+    "imageUrl": "/map-screenshots/forge-boss.jpg"
+  },
+  {
+    "name": "Forge",
+    "imageUrl": "/map-screenshots/forge.jpg"
+  },
+  {
+    "name": "Hidden Grotto",
+    "imageUrl": "/map-screenshots/hidden_grotto.jpg"
+  },
+  {
+    "name": "Hive",
+    "imageUrl": "/map-screenshots/hive.jpg"
+  },
+  {
+    "name": "Mire",
+    "imageUrl": "/map-screenshots/mire.jpg"
+  },
+  {
+    "name": "Oasis",
+    "imageUrl": "/map-screenshots/oasis.jpg"
+  },
+  {
+    "name": "Ravine",
+    "imageUrl": "/map-screenshots/ravine.jpg"
+  },
+  {
+    "name": "Rustbowl-boss",
+    "imageUrl": "/map-screenshots/rustbowl-boss.jpg"
+  },
+  {
+    "name": "Rustbowl",
+    "imageUrl": "/map-screenshots/rustbowl.jpg"
+  },
+  {
+    "name": "Sandspit",
+    "imageUrl": "/map-screenshots/sandspit.jpg"
+  },
+  {
+    "name": "Seepage",
+    "imageUrl": "/map-screenshots/seepage.jpg"
+  },
+  {
+    "name": "Spider Woods-boss",
+    "imageUrl": "/map-screenshots/spider_woods-boss.jpg"
+  },
+  {
+    "name": "Spider Woods",
+    "imageUrl": "/map-screenshots/spider_woods.jpg"
+  },
+  {
+    "name": "Steaming Springs-boss",
+    "imageUrl": "/map-screenshots/steaming_springs-boss.jpg"
+  },
+  {
+    "name": "Steaming Springs",
+    "imageUrl": "/map-screenshots/steaming_springs.jpg"
+  },
+  {
+    "name": "Steppe",
+    "imageUrl": "/map-screenshots/steppe.jpg"
+  },
+  {
+    "name": "Sulphuric Caverns",
+    "imageUrl": "/map-screenshots/sulphuric_caverns.jpg"
+  },
+  {
+    "name": "Sump-boss",
+    "imageUrl": "/map-screenshots/sump-boss.jpg"
+  },
+  {
+    "name": "Sump",
+    "imageUrl": "/map-screenshots/sump.jpg"
+  },
+  {
+    "name": "Untainted Paradise",
+    "imageUrl": "/map-screenshots/untainted_paradise.jpg"
+  },
+  {
+    "name": "Vaal Factory-boss",
+    "imageUrl": "/map-screenshots/vaal_factory-boss.jpg"
+  },
+  {
+    "name": "Vaal Factory",
+    "imageUrl": "/map-screenshots/vaal_factory.jpg"
+  },
+  {
+    "name": "Wetlands",
+    "imageUrl": "/map-screenshots/wetlands.jpg"
+  },
+  {
+    "name": "Willow",
+    "imageUrl": "/map-screenshots/willow.jpg"
+  },
+  {
+    "name": "Woodland",
+    "imageUrl": "/map-screenshots/woodland.jpg"
+  }
+]
