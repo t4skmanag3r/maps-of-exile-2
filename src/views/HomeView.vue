@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { ref, onMounted, computed } from 'vue'
 import axios from 'axios'
+import { computed, onMounted, ref } from 'vue'
 
 interface Map {
   name: string
@@ -33,7 +33,7 @@ const filteredMaps = computed(() => {
   const isBossTab = activeTab.value === 'bosses'
   return maps.value
     .filter((map) => {
-      const isBoss = map.name.toLowerCase().includes('-boss')
+      const isBoss = map.name.toLowerCase().includes('(boss)')
       return isBossTab ? isBoss : !isBoss
     })
     .filter((map) => map.name.toLowerCase().includes(searchQuery.value.toLowerCase()))

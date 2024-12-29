@@ -17,14 +17,17 @@ async function generateMapList() {
     const maps = files
       .filter((file) => file.endsWith('.jpg') || file.endsWith('.png'))
       .map((file) => {
-        const name = path
+        const [name, extra] = path
           .basename(file, path.extname(file))
           .split('_')
           .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
           .join(' ')
+          .split('-')
+
+        const formattedName = extra ? `${name} (${extra})` : name
 
         return {
-          name,
+          name: formattedName,
           imageUrl: `/map-screenshots/${file}`,
         }
       })
