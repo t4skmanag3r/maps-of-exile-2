@@ -16,6 +16,7 @@
     "homepage": "https://t4skmanag3r.github.io/maps-of-exile-2/"
   },
   "dependencies": {
+    "axios": "^1.7.9",
     "pinia": "^2.3.0",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
