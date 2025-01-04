@@ -1,11 +1,19 @@
 [
   {
+    "name": "Abyss",
+    "imageUrl": "/map-screenshots/abyss.jpg"
+  },
+  {
     "name": "Augury",
     "imageUrl": "/map-screenshots/augury.jpg"
   },
   {
     "name": "Backwash",
     "imageUrl": "/map-screenshots/backwash.jpg"
+  },
+  {
+    "name": "Barren Atoll",
+    "imageUrl": "/map-screenshots/barren_atoll.jpg"
   },
   {
     "name": "Bloodwood",
@@ -26,6 +34,22 @@
   {
     "name": "Burial Bog",
     "imageUrl": "/map-screenshots/burial_bog.jpg"
+  },
+  {
+    "name": "Cenotes",
+    "imageUrl": "/map-screenshots/cenotes.jpg"
+  },
+  {
+    "name": "Channel (boss)",
+    "imageUrl": "/map-screenshots/channel-boss.jpg"
+  },
+  {
+    "name": "Channel",
+    "imageUrl": "/map-screenshots/channel.jpg"
+  },
+  {
+    "name": "Creek (boss)",
+    "imageUrl": "/map-screenshots/creek-boss.jpg"
   },
   {
     "name": "Creek",
@@ -68,6 +92,10 @@
     "imageUrl": "/map-screenshots/fortress.jpg"
   },
   {
+    "name": "Frigid Bluffs",
+    "imageUrl": "/map-screenshots/frigid_bluffs.jpg"
+  },
+  {
     "name": "Hidden Grotto",
     "imageUrl": "/map-screenshots/hidden_grotto.jpg"
   },
@@ -76,8 +104,28 @@
     "imageUrl": "/map-screenshots/hive.jpg"
   },
   {
+    "name": "Lofty Summit (boss)",
+    "imageUrl": "/map-screenshots/lofty_summit-boss.jpg"
+  },
+  {
+    "name": "Lofty Summit",
+    "imageUrl": "/map-screenshots/lofty_summit.jpg"
+  },
+  {
+    "name": "Mineshaft (boss)",
+    "imageUrl": "/map-screenshots/mineshaft-boss.jpg"
+  },
+  {
+    "name": "Mineshaft",
+    "imageUrl": "/map-screenshots/mineshaft.jpg"
+  },
+  {
     "name": "Mire",
     "imageUrl": "/map-screenshots/mire.jpg"
+  },
+  {
+    "name": "Moment (of)",
+    "imageUrl": "/map-screenshots/moment-of-zen.jpg"
   },
   {
     "name": "Oasis",
@@ -98,6 +146,10 @@
   {
     "name": "Sandspit",
     "imageUrl": "/map-screenshots/sandspit.jpg"
+  },
+  {
+    "name": "Seepage (boss)",
+    "imageUrl": "/map-screenshots/seepage-boss.jpg"
   },
   {
     "name": "Seepage",
@@ -128,6 +180,10 @@
     "imageUrl": "/map-screenshots/steppe.jpg"
   },
   {
+    "name": "Sulphuric Caverns (boss)",
+    "imageUrl": "/map-screenshots/sulphuric_caverns-boss.jpg"
+  },
+  {
     "name": "Sulphuric Caverns",
     "imageUrl": "/map-screenshots/sulphuric_caverns.jpg"
   },
@@ -140,8 +196,36 @@
     "imageUrl": "/map-screenshots/sump.jpg"
   },
   {
+    "name": "Sun Temple",
+    "imageUrl": "/map-screenshots/sun_temple.jpg"
+  },
+  {
+    "name": "The Copper Citadel (boss)",
+    "imageUrl": "/map-screenshots/the_copper_citadel-boss.jpg"
+  },
+  {
+    "name": "The Copper Citadel",
+    "imageUrl": "/map-screenshots/the_copper_citadel.jpg"
+  },
+  {
+    "name": "The Stone Citadel (boss)",
+    "imageUrl": "/map-screenshots/the_stone_citadel-boss.jpg"
+  },
+  {
+    "name": "The Stone Citadel",
+    "imageUrl": "/map-screenshots/the_stone_citadel.jpg"
+  },
+  {
     "name": "Untainted Paradise",
     "imageUrl": "/map-screenshots/untainted_paradise.jpg"
+  },
+  {
+    "name": "Vaal City (boss)",
+    "imageUrl": "/map-screenshots/vaal_city-boss.jpg"
+  },
+  {
+    "name": "Vaal City",
+    "imageUrl": "/map-screenshots/vaal_city.jpg"
   },
   {
     "name": "Vaal Factory (boss)",
@@ -152,8 +236,20 @@
     "imageUrl": "/map-screenshots/vaal_factory.jpg"
   },
   {
+    "name": "Vaal Foundry",
+    "imageUrl": "/map-screenshots/vaal_foundry.jpg"
+  },
+  {
+    "name": "Vaults Of Kamasa",
+    "imageUrl": "/map-screenshots/vaults_of_kamasa.jpg"
+  },
+  {
     "name": "Wetlands",
     "imageUrl": "/map-screenshots/wetlands.jpg"
+  },
+  {
+    "name": "Willow (boss)",
+    "imageUrl": "/map-screenshots/willow-boss.jpg"
   },
   {
     "name": "Willow",
